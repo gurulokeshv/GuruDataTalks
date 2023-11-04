@@ -1,4 +1,5 @@
-# GuruDataTalk.github.io
+Logistic Regression From Scratch
+
 Logistic Regression is a fundamental machine learning algorithm used for binary classification problems. Unlike linear regression, which is employed for predicting continuous outcomes, logistic regression is specifically designed for predicting the probability of an instance belonging to a particular class.
 In this project, we delve into the implementation of logistic regression from scratch, emphasizing the use of the binary crossentropy (log loss) function as the chosen loss metric. Binary crossentropy is a widely used loss function for binary classification problems, measuring the difference between predicted probabilities and true class labels.
 Beyond the implementation from scratch, we embark on a comparative analysis by incorporating the logistic regression module from scikit-learn, a powerful machine learning library. This allows us to benchmark the performance of our custom implementation against a widely adopted, optimized solution. The evaluation metrics and results obtained serve as a testament to the effectiveness of our logistic regression model.
