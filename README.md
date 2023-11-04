@@ -1,4 +1,15 @@
-# GuruDataTalk.github.io
-Logistic Regression is a fundamental machine learning algorithm used for binary classification problems. Unlike linear regression, which is employed for predicting continuous outcomes, logistic regression is specifically designed for predicting the probability of an instance belonging to a particular class.
-In this project, we delve into the implementation of logistic regression from scratch, emphasizing the use of the binary crossentropy (log loss) function as the chosen loss metric. Binary crossentropy is a widely used loss function for binary classification problems, measuring the difference between predicted probabilities and true class labels.
-Beyond the implementation from scratch, we embark on a comparative analysis by incorporating the logistic regression module from scikit-learn, a powerful machine learning library. This allows us to benchmark the performance of our custom implementation against a widely adopted, optimized solution. The evaluation metrics and results obtained serve as a testament to the effectiveness of our logistic regression model.
+# Welcome to My World of Data!
+## About ME
+## Guru Lokesh V (he/him)
+Mail: gurulokeshv46@gmail.com
+Ph: +1 6823760061
+LinkedIn: [Guru Lokesh V][linkedin]
+[linkedin]: https://www.linkedin.com/in/guru-lokesh-v-196b87155/
+
+### Summary
+Results-oriented professional with an MS in Business Analytics. Proficient in data analysis, Python programming, databases, cloud technologies, and business analysis. Experienced Systems Engineer with a proven track record in developing automated correspondence delivery channels for a US-based Insurance Client, demonstrating strong teamwork and initiative. Skilled in extracting insights and transforming complex datasets into actionable strategies. Strong expertise in data analysis tools, enabling data-driven decision-making. Excellent communication skills for effective stakeholder collaboration. Ready to leverage MS in Business Analytics to drive impactful results in a dynamic business environment.
+
+### Education
+The University of Texas at Arlington | Master of Science in Business Analytics
+Anna University | Bachelor of Engineering in Mechanical Engineering 
+
