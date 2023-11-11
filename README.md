@@ -21,7 +21,7 @@ In this data science project, a multinational e-commerce company sought to addre
 ![Decision_Tree](https://github.com/gurulokeshv/GuruDataTalks/assets/43316617/8349a1a8-4d01-4b4b-9850-91d8776a504c) <br>
 ![image](https://github.com/gurulokeshv/GuruDataTalks/assets/43316617/1e06dbbf-1f6f-4403-b23a-6f66a1a2207a) <br>
 
-### 2.Logistic Regression From Scratch: With Diabetes Prediction Example. <br>
+### 2.Logistic Regression: A Deep Dive into Manual vs. Sklearn Models for Diabetes Prediction. <br>
 ![image](https://github.com/gurulokeshv/GuruDataTalks/assets/43316617/acb09af4-9523-4bfe-9bac-97517bc13404)
 
 In this project, a diabetes dataset was meticulously processed and analyzed using Python's pandas, seaborn, and matplotlib. Following data scaling with sklearn's StandardScaler, logistic regression models were implemented both manually and with sklearn. The scratch-built model, trained over 2000 iterations, exhibited a slightly superior fit to the data compared to the sklearn model, as evidenced by a higher R-square value (0.108 vs. -0.122). The manual model's learning process was comprehensively monitored through periodically displayed cost iterations. This project not only demonstrates the stepwise development, scaling, and evaluation of logistic regression models for diabetes prediction but also underscores the nuanced advantages of a carefully crafted manual implementation, providing valuable insights for future model enhancements and data-driven decision-making in the context of healthcare analytics. <br>
