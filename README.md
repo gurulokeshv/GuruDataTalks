@@ -35,3 +35,24 @@ The rise of cryptocurrencies, such as Bitcoin, Ethereum, and Ripple, has revolut
 ![1 4](https://github.com/gurulokeshv/GuruDataTalks/assets/43316617/e6c89dfd-a94b-40e0-a126-04b23a0d93d2)
 *(The code is available in my git page)*
 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My GitHub Repository</title>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-F0JGCMX1YF"></script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F0JGCMX1YF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-F0JGCMX1YF');
+</script>
+</head>
+<body>
+  <h1>My GitHub Repository</h1>
+  <p>This is my GitHub repository.</p>
+</body>
+</html>
