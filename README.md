@@ -38,21 +38,19 @@ The rise of cryptocurrencies, such as Bitcoin, Ethereum, and Ripple, has revolut
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My GitHub Repository</title>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-F0JGCMX1YF"></script>
+  <title>My Jekyll Site</title>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-F0XXXXXXXX-X"></script>
+  
+<script> 
+window.dataLayer = window.dataLayer || [];
+    function
+ 
+gtag(){dataLayer.push(arguments);}
+    gtag('js', new
+ 
+Date());
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-F0JGCMX1YF"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-F0JGCMX1YF');
-</script>
+    gtag('config', 'G-F0XXXXXXXX-X');
+  </script>
 </head>
-<body>
-  <h1>My GitHub Repository</h1>
-  <p>This is my GitHub repository.</p>
-</body>
 </html>
