@@ -1,16 +1,8 @@
 # Welcome to My World of Data!
 ## About ME
 ## Guru Lokesh V (he/him)
-Mail: gurulokeshv46@gmail.com <br>
-Ph: +1 6823760061<br>
-LinkedIn: *https://www.linkedin.com/in/guru-lokesh-v-196b87155/* <br>
-
-### Summary
-*Hello! I'm a results-oriented business analytics professional with an MS in Business Analytics. My passion lies in the art of storytelling through numbers, and I believe my skills in Python, SQL, and math make me an effective storyteller. With a proven track record in systems engineering for a US-based insurance client, I bring expertise in data analysis, cloud technologies, and business analysis. I excel in transforming complex datasets into actionable strategies, enabling data-driven decision-making. My communication skills facilitate effective collaboration with stakeholders. I'm excited to leverage my MS in Business Analytics to drive impactful results in a dynamic business environment. Let's create meaningful stories from the data together!*
 
 ### Education
-MS in Business Analytics | The University of Texas at Arlington. <br>
-BE in Mechanical Engineering | Anna University.
 
 ## Project Portfolio
 ### 1.Data Driven Approach: Reducing Delivery Delays in E-commerce Shipping. <br>
